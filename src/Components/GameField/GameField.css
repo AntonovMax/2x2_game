@@ -1,0 +1,17 @@
+.cell {
+  height: 100px;
+  width: 100px;
+  border: 1px solid white;
+}
+
+.closed {
+  border: 1px solid transparent;
+}
+
+.red{
+  background: red;
+}
+
+.green {
+  background: green;
+}
